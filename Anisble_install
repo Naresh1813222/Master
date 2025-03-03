@@ -1,2 +1,2 @@
-sudo dnf install ansible-core
-sudo ansible --version
+sudo dnf install ansible-core -y 
+ansible --version
